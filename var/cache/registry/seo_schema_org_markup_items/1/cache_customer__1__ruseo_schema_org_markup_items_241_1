@@ -1,0 +1,18 @@
+a:2:{s:4:"data";a:1:{s:7:"product";a:10:{s:8:"@context";s:18:"http://schema.org/";s:5:"@type";s:25:"http://schema.org/Product";s:4:"name";s:23:"Apple iPad 2 Белый";s:3:"sku";s:10:"I0241GCXF9";s:5:"brand";a:2:{s:5:"@type";s:5:"Thing";s:4:"name";s:5:"Apple";}s:11:"description";s:2249:"
+  Двухъядерный процессор A5. Скорость. И ещё раз скорость.
+
+
+     Два мощных ядра в одном процессоре A5 позволяют iPad выполнять в два раза больше работы за то же время. Вы, несомненно, заметите разницу, когда будете выходить в Интернет, смотреть фильмы, делать видеозвонки FaceTime, играть и переключаться между приложениями. Функция многозадачности работает плавнее, приложения загружаются быстрее — всё работает ещё лучше.
+
+
+   Сверхбыстрая графика. На радость геймерам.
+
+
+   Мощность графической системы iPad 2 увеличена почти в девять раз, благодаря чему игры стали более реалистичными. Кроме того, модернизация процессора положительно сказалась и на работе приложений, особенно связанных с видео. Вы заметите это, когда будете смотреть коллекции фотографий, редактировать видео в iMovie или включать анимацию в Keynote.
+
+
+    Аккумулятор для активной жизни.
+
+
+  Несмотря на то, что iPad стал легче и тоньше, аккумулятор у него остался прежним: он, как и раньше, выдерживает до 10 часов работы.2 Этого хватит на перелёт через Атлантику, или на целую ночь просмотра фильмов, или на неделю использования по дороге на работу и домой. Экономичный процессор A5 и система iOS не дают расходовать энергию впустую, так что можно без проблем отправляться в путь.
+";s:5:"image";a:3:{i:0;s:58:"http://localhost/cscart/images/detailed/0/ipad-white-1.jpg";i:1;s:58:"http://localhost/cscart/images/detailed/0/ipad-white-2.jpg";i:2;s:58:"http://localhost/cscart/images/detailed/0/ipad-white-3.jpg";}s:6:"offers";a:1:{i:0;a:5:{s:5:"@type";s:23:"http://schema.org/Offer";s:12:"availability";s:7:"InStock";s:3:"url";s:76:"http://localhost/cscart/elektronika/kompyutery/planshety/apple-ipad-2-belyy/";s:5:"price";d:19960;s:13:"priceCurrency";s:3:"RUB";}}s:15:"aggregateRating";a:3:{s:5:"@type";s:33:"http://schema.org/AggregateRating";s:11:"reviewCount";i:2;s:11:"ratingValue";d:4.5;}s:6:"review";a:2:{i:0;a:3:{s:5:"@type";s:24:"http://schema.org/Review";s:6:"author";a:2:{s:5:"@type";s:24:"http://schema.org/Person";s:4:"name";s:35:"Валентина Андреева";}s:12:"reviewRating";a:3:{s:5:"@type";s:24:"http://schema.org/Rating";s:11:"ratingValue";d:4;s:10:"bestRating";i:5;}}i:1;a:3:{s:5:"@type";s:24:"http://schema.org/Review";s:6:"author";a:2:{s:5:"@type";s:24:"http://schema.org/Person";s:4:"name";s:23:"Нина Круглов";}s:12:"reviewRating";a:3:{s:5:"@type";s:24:"http://schema.org/Rating";s:11:"ratingValue";d:5;s:10:"bestRating";i:5;}}}}}s:6:"expiry";i:0;}

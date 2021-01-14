@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'myfont';
+    src:url('../media/fonts/myfont.eot');
+    src:url('../media/fonts/myfont.eot?#iefix') format('embedded-opentype'),
+    url('../media/fonts/myfont.woff') format('woff'),
+    url('../media/fonts/myfont.ttf') format('truetype'),
+    url('../media/fonts/myfont.svg#myfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+    font-family: 'myfont';
+    content: attr(data-icon);
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Reset font-family for before */
+[class*="ty-icon-"]:before {
+  font-family: inherit;
+}
+
+span.ty-stars:not(:first-child) {
+    display: none;
+}
+.ty-stars__icon.ty-icon-star-empty {
+    color: #9b9b9b;
+}
+.ty-nowrap.ty-stars {
+    margin-right: 5px;
+}
+
+.ty-grid-list__item {
+    padding: 10px 10px 50px 10px;
+    
+    &--overlay:hover {
+        border-color: transparent;
+    }
+    & .ty-grid-list__image {
+        border: 1px solid #c4c4c4;
+        border-radius: 8px;
+        margin-bottom: 15px;
+    }
+    & .ty-product-labels--top-right {
+        top: 3px;
+        right: 0;
+        left: 3px;
+        justify-content: flex-start;
+    }
+    .ty-product-labels__item {
+        border-radius: 29px;
+        background-color:#DB3022;;
+    }
+    & .ty-grid-list__control {
+        display: block;
+        position: absolute;
+        right: 0;
+        bottom: -22px;
+        width: auto;
+        margin: 0;
+        padding: 0;
+    }
+    &:hover .ty-grid-list__control {
+        background: transparent;
+        border: none;
+        border-top: 0;
+        margin-left: 0;
+        padding: 0;
+    }
+    & .ty-grid-list__control .button-container {
+        position: relative;
+    }
+    & .ty-grid-list__control .ty-btn {
+        width: 44px;
+        height: 44px;
+        background: #db3022;
+        border-radius: 50%;
+        font-size: 0;
+        margin-bottom: 0;
+        margin-right: 0;
+    }
+    & .ty-grid-list__control .ty-btn:hover {
+        opacity: .6;
+        transition: all .5s;
+    }
+    & .ty-grid-list__control .cm-dialog-opener,
+    & .ty-grid-list__item-features {
+        display: none;
+    }
+    & .ty-icon-cart, .ty-icon-cross {
+        font-family: 'myfont';
+        font-style: normal;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    & .ty-icon-cart:before {
+        content: "\e901";
+        color: #f9f9f9;
+    }
+    & .ty-icon-cross:before {
+        content: "\e900";
+        color: #fff;
+    }
+    & .grid-list__rating {
+        margin-bottom: 5px;
+    }
+    &-category {
+        font-size: 13px;
+        color: #b9b9b9;
+    }
+    &-name {
+        min-height: 40px;
+        margin-top: 5px !important;
+        margin-bottom: 0 !important;
+    }
+    &-name a.product-title {
+        font-size: 16px;
+        font-weight: 600;
+        color: #000000;
+    }
+    & .ty-price .ty-price-num {
+        font-size: 16px;
+        font-weight: 600;
+        color: #db3022;
+    }
+    & .ty-strike .ty-list-price.ty-nowrap {
+        font-size: 13px;
+        color: #6f6f6f;
+    }
+    & .ty-grid-list__price {
+        margin-top: 0;
+        text-align: right;
+    }
+}

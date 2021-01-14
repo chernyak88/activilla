@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::activilla"
+msgid "Activilla"
+msgstr "Активилла"
+
+msgctxt "Addons::description::activilla"
+msgid "Description (activilla)"
+msgstr "Тестовый модуль"
+
